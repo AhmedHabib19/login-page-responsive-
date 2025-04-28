@@ -16,11 +16,14 @@
 .form{
     background-color: #002062;
     max-width: max-content;
-    max-height: 1024px;
+    max-height: 100%;
+    padding-bottom: 169px;
+    margin: 0;
 }
 .imge img{
     Width: 859px;
-    Height: 1024px;
+    Height: 100%;
+    margin: 0;
 }
 .mainform{
     justify-content: center;
