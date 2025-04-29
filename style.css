@@ -16,7 +16,7 @@
 .form{
     background-color: #002062;
     max-width: max-content;
-    height: 100%;
+    min-height: 1024px;
     padding-bottom: 169px;
     margin: 0;
 }
